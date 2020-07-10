@@ -10,10 +10,10 @@
 
     <link rel="stylesheet" href="style.css">
 
-    <title>Hello, world!</title>
+    <title>About Us !</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>About Us Page</h1>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
